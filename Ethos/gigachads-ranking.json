@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generatedAt": "2025-07-04T12:37:46.131Z",
+    "generatedAt": "2025-07-04T15:13:15.189Z",
     "totalGigachads": 194,
     "activeUsers": 103,
     "usersWithActivity": 83,
-    "totalInteractions": 823,
+    "totalInteractions": 833,
     "scoring": {
       "reviewReceived": 1,
       "reviewGiven": 2,
@@ -25,13 +25,13 @@
         "twitterUrl": "https://x.com/Guezito1"
       },
       "stats": {
-        "reviewsReceived": 12,
+        "reviewsReceived": 13,
         "reviewsGiven": 10,
         "vouchesReceived": 3,
         "vouchesGiven": 5,
         "attestationsReceived": 4,
         "attestationsGiven": 4,
-        "totalScore": 97
+        "totalScore": 98
       }
     },
     {
@@ -478,6 +478,27 @@
     {
       "rank": 23,
       "user": {
+        "id": 52124,
+        "username": "MindfulMarketOG",
+        "displayName": "OG 🐧",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg",
+        "profileId": 4260,
+        "profileUrl": "https://app.ethos.network/profile/x/MindfulMarketOG",
+        "twitterUrl": "https://x.com/MindfulMarketOG"
+      },
+      "stats": {
+        "reviewsReceived": 9,
+        "reviewsGiven": 6,
+        "vouchesReceived": 1,
+        "vouchesGiven": 0,
+        "attestationsReceived": 2,
+        "attestationsGiven": 2,
+        "totalScore": 26
+      }
+    },
+    {
+      "rank": 24,
+      "user": {
         "id": 20814,
         "username": "apcollectiveio",
         "displayName": "AP Collective",
@@ -497,27 +518,6 @@
       }
     },
     {
-      "rank": 24,
-      "user": {
-        "id": 52124,
-        "username": "MindfulMarketOG",
-        "displayName": "OG 🐧",
-        "avatarUrl": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg",
-        "profileId": 4260,
-        "profileUrl": "https://app.ethos.network/profile/x/MindfulMarketOG",
-        "twitterUrl": "https://x.com/MindfulMarketOG"
-      },
-      "stats": {
-        "reviewsReceived": 8,
-        "reviewsGiven": 6,
-        "vouchesReceived": 1,
-        "vouchesGiven": 0,
-        "attestationsReceived": 2,
-        "attestationsGiven": 2,
-        "totalScore": 25
-      }
-    },
-    {
       "rank": 25,
       "user": {
         "id": 23772,
@@ -529,13 +529,13 @@
         "twitterUrl": "https://x.com/MarianneNFTs"
       },
       "stats": {
-        "reviewsReceived": 7,
+        "reviewsReceived": 8,
         "reviewsGiven": 9,
         "vouchesReceived": 0,
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 25
+        "totalScore": 26
       }
     },
     {
@@ -562,6 +562,27 @@
     {
       "rank": 27,
       "user": {
+        "id": 20909,
+        "username": "ProofOfEly",
+        "displayName": "Ely",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg",
+        "profileId": 2535,
+        "profileUrl": "https://app.ethos.network/profile/x/ProofOfEly",
+        "twitterUrl": "https://x.com/ProofOfEly"
+      },
+      "stats": {
+        "reviewsReceived": 3,
+        "reviewsGiven": 3,
+        "vouchesReceived": 1,
+        "vouchesGiven": 1,
+        "attestationsReceived": 1,
+        "attestationsGiven": 1,
+        "totalScore": 24
+      }
+    },
+    {
+      "rank": 28,
+      "user": {
         "id": 51164,
         "username": "coffeexcoin",
         "displayName": "coffeexcoin.eth",
@@ -578,27 +599,6 @@
         "attestationsReceived": 2,
         "attestationsGiven": 2,
         "totalScore": 24
-      }
-    },
-    {
-      "rank": 28,
-      "user": {
-        "id": 20909,
-        "username": "ProofOfEly",
-        "displayName": "Ely",
-        "avatarUrl": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg",
-        "profileId": 2535,
-        "profileUrl": "https://app.ethos.network/profile/x/ProofOfEly",
-        "twitterUrl": "https://x.com/ProofOfEly"
-      },
-      "stats": {
-        "reviewsReceived": 2,
-        "reviewsGiven": 3,
-        "vouchesReceived": 1,
-        "vouchesGiven": 1,
-        "attestationsReceived": 1,
-        "attestationsGiven": 1,
-        "totalScore": 23
       }
     },
     {
@@ -961,6 +961,27 @@
     {
       "rank": 46,
       "user": {
+        "id": 12107198,
+        "username": "mxbelyg",
+        "displayName": "mxbely",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg",
+        "profileId": 17503,
+        "profileUrl": "https://app.ethos.network/profile/x/mxbelyg",
+        "twitterUrl": "https://x.com/mxbelyg"
+      },
+      "stats": {
+        "reviewsReceived": 2,
+        "reviewsGiven": 7,
+        "vouchesReceived": 0,
+        "vouchesGiven": 0,
+        "attestationsReceived": 1,
+        "attestationsGiven": 1,
+        "totalScore": 16
+      }
+    },
+    {
+      "rank": 47,
+      "user": {
         "id": 12161,
         "username": "Tuteth_",
         "displayName": "Tut",
@@ -980,7 +1001,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 48,
       "user": {
         "id": 1107264,
         "username": "DUDEisonchain",
@@ -1001,7 +1022,7 @@
       }
     },
     {
-      "rank": 48,
+      "rank": 49,
       "user": {
         "id": 1074,
         "username": "Tma_420",
@@ -1022,7 +1043,7 @@
       }
     },
     {
-      "rank": 49,
+      "rank": 50,
       "user": {
         "id": 400568,
         "username": "debayo_xx",
@@ -1035,27 +1056,6 @@
       "stats": {
         "reviewsReceived": 0,
         "reviewsGiven": 6,
-        "vouchesReceived": 0,
-        "vouchesGiven": 0,
-        "attestationsReceived": 1,
-        "attestationsGiven": 1,
-        "totalScore": 12
-      }
-    },
-    {
-      "rank": 50,
-      "user": {
-        "id": 12107198,
-        "username": "mxbelyg",
-        "displayName": "mxbely",
-        "avatarUrl": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg",
-        "profileId": 17503,
-        "profileUrl": "https://app.ethos.network/profile/x/mxbelyg",
-        "twitterUrl": "https://x.com/mxbelyg"
-      },
-      "stats": {
-        "reviewsReceived": 2,
-        "reviewsGiven": 5,
         "vouchesReceived": 0,
         "vouchesGiven": 0,
         "attestationsReceived": 1,
@@ -1129,6 +1129,27 @@
     {
       "rank": 54,
       "user": {
+        "id": 12111706,
+        "username": "Rubiks_Gus",
+        "displayName": "Rubiks (Gus)",
+        "avatarUrl": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg",
+        "profileId": 17515,
+        "profileUrl": "https://app.ethos.network/profile/x/Rubiks_Gus",
+        "twitterUrl": "https://x.com/Rubiks_Gus"
+      },
+      "stats": {
+        "reviewsReceived": 3,
+        "reviewsGiven": 3,
+        "vouchesReceived": 0,
+        "vouchesGiven": 0,
+        "attestationsReceived": 2,
+        "attestationsGiven": 2,
+        "totalScore": 9
+      }
+    },
+    {
+      "rank": 55,
+      "user": {
         "id": 13738191,
         "username": "basedPavel",
         "displayName": "Pavil ⚡️💵",
@@ -1148,7 +1169,7 @@
       }
     },
     {
-      "rank": 55,
+      "rank": 56,
       "user": {
         "id": 12118068,
         "username": "aliruinweb",
@@ -1169,7 +1190,7 @@
       }
     },
     {
-      "rank": 56,
+      "rank": 57,
       "user": {
         "id": 51542,
         "username": "shivst3r",
@@ -1190,7 +1211,7 @@
       }
     },
     {
-      "rank": 57,
+      "rank": 58,
       "user": {
         "id": 12159685,
         "username": "The_Pandymonium",
@@ -1211,7 +1232,7 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 59,
       "user": {
         "id": 13744416,
         "username": "sauciii__",
@@ -1232,7 +1253,7 @@
       }
     },
     {
-      "rank": 59,
+      "rank": 60,
       "user": {
         "id": 12108450,
         "username": "curtisjcummings",
@@ -1253,7 +1274,7 @@
       }
     },
     {
-      "rank": 60,
+      "rank": 61,
       "user": {
         "id": 13109200,
         "username": "SEMB_xD",
@@ -1274,7 +1295,7 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 62,
       "user": {
         "id": 668724,
         "username": "tgotto95",
@@ -1295,7 +1316,7 @@
       }
     },
     {
-      "rank": 62,
+      "rank": 63,
       "user": {
         "id": 12170104,
         "username": "anikijungle",
@@ -1316,7 +1337,7 @@
       }
     },
     {
-      "rank": 63,
+      "rank": 64,
       "user": {
         "id": 31127,
         "username": "IRA_therabbit",
@@ -1337,7 +1358,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 65,
       "user": {
         "id": 12508084,
         "username": "AgniesskaS",
@@ -1358,7 +1379,7 @@
       }
     },
     {
-      "rank": 65,
+      "rank": 66,
       "user": {
         "id": 211350,
         "username": "johnny_clock",
@@ -1379,7 +1400,7 @@
       }
     },
     {
-      "rank": 66,
+      "rank": 67,
       "user": {
         "id": 13435,
         "username": "wholisticguy",
@@ -1400,7 +1421,7 @@
       }
     },
     {
-      "rank": 67,
+      "rank": 68,
       "user": {
         "id": 51640,
         "username": "SteveG60117",
@@ -1421,7 +1442,7 @@
       }
     },
     {
-      "rank": 68,
+      "rank": 69,
       "user": {
         "id": 479903,
         "username": "yotdog69",
@@ -1442,7 +1463,7 @@
       }
     },
     {
-      "rank": 69,
+      "rank": 70,
       "user": {
         "id": 2671113,
         "username": "fifilechien",
@@ -1459,27 +1480,6 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
-      }
-    },
-    {
-      "rank": 70,
-      "user": {
-        "id": 12111706,
-        "username": "Rubiks_Gus",
-        "displayName": "Rubiks (Gus)",
-        "avatarUrl": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg",
-        "profileId": 17515,
-        "profileUrl": "https://app.ethos.network/profile/x/Rubiks_Gus",
-        "twitterUrl": "https://x.com/Rubiks_Gus"
-      },
-      "stats": {
-        "reviewsReceived": 2,
-        "reviewsGiven": 0,
-        "vouchesReceived": 0,
-        "vouchesGiven": 0,
-        "attestationsReceived": 2,
-        "attestationsGiven": 2,
         "totalScore": 2
       }
     },

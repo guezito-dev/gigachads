@@ -1,6 +1,6 @@
 const DEBUG_MODE = true;
 const MAX_ITEMS = 5;
-const GITHUB_JSON_URL = 'https://raw.githubusercontent.com/guezito-dev/gigachads/main/gigachads-ranking.json';
+const GITHUB_JSON_URL = 'https://raw.githubusercontent.com/guezito-dev/gigachads/main/Ethos/gigachads-ranking.json';
 
 let gigachadsData = null;
 const processedActivities = new Set();
@@ -60,7 +60,6 @@ function getVouchTitle(activity) {
     const subjectName = activity.subjectUser?.displayName || activity.subjectUser?.username || 'User';
     return `Vouch for ${subjectName}`;
 }
-
 
 function createUniqueId(activity) {
     const authorId = activity.author?.profileId || activity.authorUser?.profileId;
