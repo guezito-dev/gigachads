@@ -7,18 +7,18 @@
     <link rel="stylesheet" href="table.css">
 </head>
 <body>
-    <div class="container">
+    <div class="table-container">
         <h1>Gigachads Leaderboard</h1>
         <table id="rankTable">
             <thead>
                 <tr>
                     <th>Rank</th>
                     <th>User</th>
-                    <th>Vouches Given</th>
-                    <th>Reviews Given</th>
-                    <th>Vouches Received</th>
-                    <th>Reviews Received</th>
-                    <th>Total Score</th>
+                    <th onclick="sortTable('vouchesGiven')">Vouches Given</th>
+                    <th onclick="sortTable('reviewsGiven')">Reviews Given</th>
+                    <th onclick="sortTable('vouchesReceived')">Vouches Received</th>
+                    <th onclick="sortTable('reviewsReceived')">Reviews Received</th>
+                    <th onclick="sortTable('totalScore')">Total Score</th>
                     <th>Ethos Profile</th>
                     <th>X Profile</th>
                 </tr>
