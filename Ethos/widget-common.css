@@ -18,12 +18,12 @@ body {
 .loading {
     text-align: center;
     padding: 14px;
-    color: #FFF; /* Couleur du texte de chargement */
+    color: #bbb;
     font-size: 14px;
 }
 
 .error {
-    background: rgba(45, 29, 28, 0.9); /* Légère transparence pour l'erreur */
+    background: #2D1D1C;
     color: #FF3C3C;
     padding: 12px;
     border-radius: 7px;
@@ -49,9 +49,9 @@ body {
     display: flex;
     align-items: center;
     gap: 11px;
-    background: rgba(0, 0, 0, 0.5); /* Ajustez l'opacité à votre goût */
+    background: rgba(50, 50, 50, 0.8); /* Ajustez pour la transparence */
     border-radius: 9px;
-    box-shadow: 0 3px 15px 0 rgba(22,22,22,0.1);
+    box-shadow: 0 3px 15px rgba(22, 22, 22, 0.04);
     padding: 7px 10px;
     margin-bottom: 8px;
     min-height: 39px;
@@ -60,7 +60,7 @@ body {
 }
 
 .card-row:hover {
-    background: rgba(0, 0, 0, 0.7); /* Transparence accrue au survol */
+    background: rgba(50, 50, 50, 0.95); /* Opacité accrue au survol */
 }
 
 .card-avatar {
@@ -99,8 +99,7 @@ body {
 
 .card-user {
     font-weight: bold;
-    color: #FFF;
-    font-size: 14px;
+    color: #FFF; /* Contraste élevé pour le texte */
 }
 
 .card-verb {
@@ -150,7 +149,6 @@ body {
         align-items: stretch;
         padding: 8px;
         gap: 7px;
-        background: rgba(0, 0, 0, 0.7); /* Transparence accrue pour mobile */
     }
 
     .card-arrow {
