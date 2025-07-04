@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2025-07-04T23:00:05.983Z",
+    "generatedAt": "2025-07-04T23:42:47.549Z",
     "totalGigachads": 194,
     "activeUsers": 103,
     "usersWithActivity": 83,
@@ -31,7 +31,111 @@
         "vouchesGiven": 6,
         "attestationsReceived": 4,
         "attestationsGiven": 4,
-        "totalScore": 108
+        "totalScore": 108,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930330018929881088/VmQLIO8s.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930330018929881088/VmQLIO8s.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ]
       }
     },
     {
@@ -52,7 +156,99 @@
         "vouchesGiven": 4,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 86
+        "totalScore": 86,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          }
+        ]
       }
     },
     {
@@ -73,7 +269,84 @@
         "vouchesGiven": 3,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 77
+        "totalScore": 77,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1889951396805722112/-OvcrlOt.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1819808474215182337/j4exNg5D.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1889951396805722112/-OvcrlOt.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1889951396805722112/-OvcrlOt.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          }
+        ]
       }
     },
     {
@@ -94,7 +367,60 @@
         "vouchesGiven": 5,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 71
+        "totalScore": 71,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ]
       }
     },
     {
@@ -115,7 +441,66 @@
         "vouchesGiven": 4,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 71
+        "totalScore": 71,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935401530271649792/IwvFx9VR.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935401530271649792/IwvFx9VR.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          }
+        ]
       }
     },
     {
@@ -136,7 +521,110 @@
         "vouchesGiven": 2,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 68
+        "totalScore": 68,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916938597644832775/kM3G2OkQ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910041144689303553/L_bUl9xa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916938597644832775/kM3G2OkQ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -157,7 +645,78 @@
         "vouchesGiven": 2,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 53
+        "totalScore": 53,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ]
       }
     },
     {
@@ -178,7 +737,66 @@
         "vouchesGiven": 2,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 49
+        "totalScore": 49,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          }
+        ]
       }
     },
     {
@@ -199,7 +817,75 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 48
+        "totalScore": 48,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          }
+        ]
       }
     },
     {
@@ -220,7 +906,101 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 47
+        "totalScore": 47,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1918317475176792064/aVpWz_3R.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916938597644832775/kM3G2OkQ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ]
       }
     },
     {
@@ -241,7 +1021,87 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 43
+        "totalScore": 43,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1848295239355863040/RlSKQDv2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1918317475176792064/aVpWz_3R.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1855982765029605376/e_FoVVhf.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1855982765029605376/e_FoVVhf.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1855982765029605376/e_FoVVhf.jpg"
+          }
+        ]
       }
     },
     {
@@ -262,7 +1122,77 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 42
+        "totalScore": 42,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -283,7 +1213,57 @@
         "vouchesGiven": 2,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 38
+        "totalScore": 38,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1901584499575791616/EC86zjFJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ]
       }
     },
     {
@@ -304,7 +1284,76 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 37
+        "totalScore": 37,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1878399188674715648/jDIlqaUV.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1599133692219228167/cZZJ_DA1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -325,7 +1374,76 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 34
+        "totalScore": 34,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927726926799515648/Afa2sb87.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927726926799515648/Afa2sb87.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -346,7 +1464,73 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 34
+        "totalScore": 34,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1599133692219228167/cZZJ_DA1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -367,7 +1551,76 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 34
+        "totalScore": 34,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929168028622524416/JGKw3uAd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -388,7 +1641,48 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 33
+        "totalScore": 33,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          }
+        ]
       }
     },
     {
@@ -409,7 +1703,76 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 33
+        "totalScore": 33,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1918317475176792064/aVpWz_3R.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -430,7 +1793,76 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 32
+        "totalScore": 32,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1918317475176792064/aVpWz_3R.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910763746752159750/vmoisNlb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -451,7 +1883,73 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 29
+        "totalScore": 29,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -472,7 +1970,45 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 28
+        "totalScore": 28,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          }
+        ]
       }
     },
     {
@@ -493,7 +2029,62 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 26
+        "totalScore": 26,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1752905125545267200/grr3yOP6.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1751324272499245056/Dp1_5hQF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1876785404789100544/y_29w2_l.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          }
+        ]
       }
     },
     {
@@ -514,7 +2105,61 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 26
+        "totalScore": 26,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -535,7 +2180,64 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 26
+        "totalScore": 26,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1918317475176792064/aVpWz_3R.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1936837160818151424/JpegdKzb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1914340160562409472/QQw-Qsry.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -556,7 +2258,35 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 25
+        "totalScore": 25,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1879234276983541760/MV_1M0gy.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1879452028088561664/OY16oEAN.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          }
+        ]
       }
     },
     {
@@ -577,7 +2307,39 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 24
+        "totalScore": 24,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1752905125545267200/grr3yOP6.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ]
       }
     },
     {
@@ -598,7 +2360,39 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 24
+        "totalScore": 24,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1819808474215182337/j4exNg5D.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1877738565037158402/XCG2C4Py.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1877738565037158402/XCG2C4Py.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          }
+        ]
       }
     },
     {
@@ -619,7 +2413,56 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 23
+        "totalScore": 23,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916898368703320064/hO2djSLS.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ]
       }
     },
     {
@@ -640,7 +2483,36 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 23
+        "totalScore": 23,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          }
+        ]
       }
     },
     {
@@ -661,7 +2533,52 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 22
+        "totalScore": 22,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938019872291655680/CTbxT9hn.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929168028622524416/JGKw3uAd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1908966009437822976/CqbZ2CGk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928182740752510978/cB8lcR2a.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -682,7 +2599,52 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 22
+        "totalScore": 22,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1663128307393519621/leQ2uGee.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1724687865471455232/-rc2ShfE.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -703,7 +2665,50 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 21
+        "totalScore": 21,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1626218775090700288/whg0AkV3.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1904600719032016899/rCNdL25T.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1925415192105738240/OXXXAr2y.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1626218775090700288/whg0AkV3.png"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          }
+        ]
       }
     },
     {
@@ -724,7 +2729,36 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 21
+        "totalScore": 21,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923407216565952512/_EzXPI7j.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          }
+        ]
       }
     },
     {
@@ -745,7 +2779,44 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 21
+        "totalScore": 21,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1895139176384712704/MO5aFVfH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ]
       }
     },
     {
@@ -766,7 +2837,52 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 20
+        "totalScore": 20,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -787,7 +2903,33 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 20
+        "totalScore": 20,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          }
+        ]
       }
     },
     {
@@ -808,7 +2950,46 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 19
+        "totalScore": 19,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927625750313611264/iH_2spdf.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -829,7 +3010,56 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 19
+        "totalScore": 19,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1921311074885804032/qNIU_lnw.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ]
       }
     },
     {
@@ -850,7 +3080,43 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 19
+        "totalScore": 19,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1936837160818151424/JpegdKzb.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -871,7 +3137,27 @@
         "vouchesGiven": 1,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 18
+        "totalScore": 18,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ]
       }
     },
     {
@@ -892,7 +3178,38 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 18
+        "totalScore": 18,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ]
       }
     },
     {
@@ -913,7 +3230,43 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 17
+        "totalScore": 17,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1861998883309834240/UhHhnxaH.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1874517348134109184/9ck9sUGA.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928182740752510978/cB8lcR2a.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928182740752510978/cB8lcR2a.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -934,7 +3287,46 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 17
+        "totalScore": 17,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938241181516742656/UxoMaAac.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927116816792338432/SJeVSkn2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -955,7 +3347,49 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 17
+        "totalScore": 17,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939356075485978624/rQc15FC4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929494982412337153/k0VALDqJ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -976,7 +3410,23 @@
         "vouchesGiven": 1,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 16
+        "totalScore": 16,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          }
+        ],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          }
+        ]
       }
     },
     {
@@ -997,7 +3447,38 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 14
+        "totalScore": 14,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1866470568545091584/3RhmGAyL.jpg"
+          }
+        ]
       }
     },
     {
@@ -1018,7 +3499,34 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 12
+        "totalScore": 12,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1039,7 +3547,35 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 12
+        "totalScore": 12,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ]
       }
     },
     {
@@ -1060,7 +3596,30 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 12
+        "totalScore": 12,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1869498671408074752/TS4TuQdC.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1081,7 +3640,34 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 11
+        "totalScore": 11,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1916938597644832775/kM3G2OkQ.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1891920417876480000/tHLrX-ij.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1102,7 +3688,37 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 10
+        "totalScore": 10,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1716151233512148992/btqvO8Xx.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927445953063067648/EY0MKv62.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1123,7 +3739,31 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 9
+        "totalScore": 9,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1884750097042354176/Os3coswo.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846935633614258176/MvEBbrLa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1144,7 +3784,31 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 9
+        "totalScore": 9,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927456293427544064/crZiEzeu.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1165,7 +3829,31 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 9
+        "totalScore": 9,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1880286958246633472/iBZy8-ED.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1908966009437822976/CqbZ2CGk.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1186,7 +3874,25 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 7
+        "totalScore": 7,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927625750313611264/iH_2spdf.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926379727498977280/1iwTvitb.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1207,7 +3913,33 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 7
+        "totalScore": 7,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1893219811926102017/_IvFDhi4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899840185925337088/2g_uarj5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910763746752159750/vmoisNlb.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1228,7 +3960,31 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 7
+        "totalScore": 7,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930330018929881088/VmQLIO8s.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930330018929881088/VmQLIO8s.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940196403247984640/OF2drRf8.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1249,7 +4005,33 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 7
+        "totalScore": 7,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1908966009437822976/CqbZ2CGk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1939357992081625089/Rt4yzJwg.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930653856876077056/22eB-zY2.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1270,7 +4052,19 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 6
+        "totalScore": 6,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          }
+        ]
       }
     },
     {
@@ -1291,7 +4085,21 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 6
+        "totalScore": 6,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1917517920596303872/wsvb_iTF.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1312,7 +4120,25 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 6
+        "totalScore": 6,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1846932562205143040/QimVOhpU.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933742259851141120/50FKx9yq.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1333,7 +4159,25 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 6
+        "totalScore": 6,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899427095605809152/cTrr8xhr.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1938378775588167680/Xl0f6cVg.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1354,7 +4198,22 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 4
+        "totalScore": 4,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910041144689303553/L_bUl9xa.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1872479879251312640/QhMmpxH1.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910041144689303553/L_bUl9xa.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1375,7 +4234,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 4
+        "totalScore": 4,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1923430158251282432/N6Wb24Sd.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933005187116929024/UD4TKxL3.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1396,7 +4266,19 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 3
+        "totalScore": 3,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927146881626284032/-nkyasH0.png"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1417,7 +4299,19 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 3
+        "totalScore": 3,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928200077492850688/vQu2sYkB.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1438,7 +4332,19 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 3
+        "totalScore": 3,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1459,7 +4365,19 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 3
+        "totalScore": 3,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1927416075337060352/8c-Aom_Q.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935707018314051584/B2WNA-Br.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1480,7 +4398,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1933004412663853056/amTgtLg2.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930964327101583360/qW_xYvuK.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1501,7 +4430,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935020454835822592/XzQ9ZTkk.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1522,7 +4462,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1930596158281310208/Pw0iT_aO.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1928182740752510978/cB8lcR2a.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1543,7 +4494,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1907530420570206208/9HidykOB.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1564,7 +4523,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1808961844045910016/145Ib6Vs.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1585,7 +4552,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1935620274918920192/_VlS8QYa.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1912299162390978560/4P0kbPX5.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1606,7 +4584,18 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          },
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1899824667671576576/RVqjlLdW.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1627,7 +4616,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 2
+        "totalScore": 2,
+        "reviewsGivenAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          }
+        ],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1648,7 +4645,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1669,7 +4674,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1926126582864773120/83XczZe5.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1690,7 +4703,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1929230028581322752/cCdRM0NJ.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1711,7 +4732,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1910580543928098817/2WJcT6A4.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1732,7 +4761,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1931203087319945217/v2nx_MJY.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1753,7 +4790,15 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 1
+        "totalScore": 1,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [
+          {
+            "avatar": "https://pbs.twimg.com/profile_images/1940382416964644864/VA6E_vJC.jpg"
+          }
+        ],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1774,7 +4819,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1795,7 +4844,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1816,7 +4869,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1837,7 +4894,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1858,7 +4919,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1879,7 +4944,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1900,7 +4969,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1921,7 +4994,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1942,7 +5019,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1963,7 +5044,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -1984,7 +5069,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2005,7 +5094,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2026,7 +5119,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 3,
         "attestationsGiven": 3,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2047,7 +5144,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2068,7 +5169,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 2,
         "attestationsGiven": 2,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2089,7 +5194,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2110,7 +5219,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2131,7 +5244,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2152,7 +5269,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     },
     {
@@ -2173,7 +5294,11 @@
         "vouchesGiven": 0,
         "attestationsReceived": 1,
         "attestationsGiven": 1,
-        "totalScore": 0
+        "totalScore": 0,
+        "reviewsGivenAvatars": [],
+        "reviewsReceivedAvatars": [],
+        "vouchesGivenAvatars": [],
+        "vouchesReceivedAvatars": []
       }
     }
   ]
