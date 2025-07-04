@@ -1,5 +1,5 @@
 const DEBUG_MODE = true;
-const MAX_ITEMS = 5;
+const MAX_ITEMS = 8;
 const GITHUB_JSON_URL = 'https://raw.githubusercontent.com/guezito-dev/gigachads/main/Ethos/gigachads-ranking.json';
 
 let gigachadsData = null;
