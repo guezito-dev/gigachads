@@ -160,7 +160,7 @@ async function fetchRecentReviews() {
 // ========== Rendu HTML harmonisé ==========
 
 function createReviewHTML(review) {
-    const title = getReviewTitle(review);
+    const translatedTitle = review.translation?.translatedContent || review.comment;
     const description = getReviewDescription(review);
     const timeAgo = formatTimeAgo(review.createdAt || review.timestamp);
     const authorName = review.authorUser.displayName || review.authorUser.username;
@@ -172,7 +172,7 @@ function createReviewHTML(review) {
     <div class="card-row">
         <img class="card-avatar" src="${authorAvatar}" alt="${authorName}">
         <span class="card-arrow">→</span>
-        <img class="card-avatar" src="${subjectAvatar}" alt="${subjectName}">
+        <img class="card-avatar" src="${subjectAvatar}" alt="${subjectName}"> 
         <div class="card-content">
             <div class="card-line">
                 <span class="card-user">${authorName}</span>
@@ -180,8 +180,8 @@ function createReviewHTML(review) {
                 <span class="card-user">${subjectName}</span>
                 <span class="card-time">${timeAgo}</span>
             </div>
-            <div class="card-title">${title ? title : ""}</div>
-            <div class="card-description">${description ? description : ""}</div>
+            <div class="card-title">${translatedTitle}</div>
+            <div class="card-description">${description}</div>
         </div>
     </div>
     `;

@@ -172,6 +172,7 @@ async function fetchRecentVouches() {
 // ========== Rendu HTML harmonisé ==========
 
 function createVouchHTML(vouch) {
+    const translatedTitle = vouch.translation?.translatedContent || vouch.comment;
     const subjectName = vouch.subjectUser.displayName || vouch.subjectUser.username;
     const authorName = vouch.authorUser.displayName || vouch.authorUser.username;
     const authorAvatar = vouch.authorUser.avatarUrl || 'https://via.placeholder.com/46';
@@ -192,7 +193,7 @@ function createVouchHTML(vouch) {
                 <span class="card-amount">${stakedAmount} ETH</span>
                 <span class="card-time">${timeAgo}</span>
             </div>
-            <!-- Optionnel : pas de description pour les vouches -->
+            <div class="card-title">${translatedTitle}</div>
         </div>
     </div>
     `;
