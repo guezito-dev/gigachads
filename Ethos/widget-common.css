@@ -49,7 +49,7 @@ body {
     display: flex;
     align-items: center;
     gap: 11px;
-    background: rgba(50, 50, 50, 0.8); /* Ajustez pour la transparence */
+    background: rgba(47, 52, 56, 0.8); /* Color dark de Notion avec transparence */
     border-radius: 9px;
     box-shadow: 0 3px 15px rgba(22, 22, 22, 0.04);
     padding: 7px 10px;
@@ -60,7 +60,7 @@ body {
 }
 
 .card-row:hover {
-    background: rgba(50, 50, 50, 0.95); /* Opacité accrue au survol */
+    background: rgba(47, 52, 56, 0.95); /* Opacité accrue au survol */
 }
 
 .card-avatar {
