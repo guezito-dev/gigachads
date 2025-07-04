@@ -168,8 +168,12 @@ function createReviewHTML(review) {
     const authorAvatar = review.authorUser.avatarUrl || 'https://via.placeholder.com/46';
     const subjectAvatar = review.subjectUser.avatarUrl || 'https://via.placeholder.com/46';
 
+    // On récupère l'id numérique de la review
+    const reviewId = review.data?.id || review.content?.id;
+    const url = reviewId ? `https://app.ethos.network/activity/review/${reviewId}` : "#";
+
     return `
-    <div class="card-row">
+    <a href="${url}" target="_blank" class="card-row review-link">
         <img class="card-avatar" src="${authorAvatar}" alt="${authorName}">
         <span class="card-arrow">→</span>
         <img class="card-avatar" src="${subjectAvatar}" alt="${subjectName}"> 
@@ -183,9 +187,10 @@ function createReviewHTML(review) {
             <div class="card-title">${translatedTitle}</div>
             <div class="card-description">${description}</div>
         </div>
-    </div>
+    </a>
     `;
 }
+
 
 function displayReviews(reviews) {
     const container = document.getElementById('reviewsContainer');

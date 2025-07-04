@@ -34,7 +34,15 @@ function weiToEth(wei) {
 
 // Récupérer le montant stake pour la vouch
 function getStakedAmount(activity) {
-    if (activity.data?.staked) {
+    // Pour vouch au format Ethos
+    if (activity.data?.deposited) {
+        return weiToEth(activity.data.deposited);
+    }
+    // fallback si on est sur d'autres formats "content"
+    if (activity.content?.deposited) {
+        return weiToEth(activity.content.deposited);
+    }
+    if (activity.data?.staked) { // (par sécurité, met en dernier recours)
         return weiToEth(activity.data.staked);
     }
     if (activity.content?.stakeAmount) {
@@ -177,11 +185,16 @@ function createVouchHTML(vouch) {
     const authorName = vouch.authorUser.displayName || vouch.authorUser.username;
     const authorAvatar = vouch.authorUser.avatarUrl || 'https://via.placeholder.com/46';
     const subjectAvatar = vouch.subjectUser.avatarUrl || 'https://via.placeholder.com/46';
+    const rawTime = vouch.timestamp || vouch.createdAt;
     const timeAgo = formatTimeAgo(vouch.createdAt || vouch.timestamp);
     const stakedAmount = getStakedAmount(vouch);
 
+    // On récupère l'id numérique du vouch
+    const vouchId = vouch.data?.id || vouch.content?.id;
+    const url = vouchId ? `https://app.ethos.network/activity/vouch/${vouchId}` : "#";
+
     return `
-    <div class="card-row">
+    <a href="${url}" target="_blank" class="card-row vouch-link">
         <img class="card-avatar" src="${authorAvatar}" alt="${authorName}">
         <span class="card-arrow">→</span>
         <img class="card-avatar" src="${subjectAvatar}" alt="${subjectName}">
@@ -195,9 +208,10 @@ function createVouchHTML(vouch) {
             </div>
             <div class="card-title">${translatedTitle}</div>
         </div>
-    </div>
+    </a>
     `;
 }
+
 
 function displayVouches(vouches) {
     const container = document.getElementById('vouchesList');

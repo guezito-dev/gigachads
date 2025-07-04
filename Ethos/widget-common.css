@@ -32,6 +32,19 @@ body {
     font-size: 14px;
 }
 
+.card-row,
+.card-row:visited,
+.card-row:active,
+.review-link,
+.review-link:visited,
+.review-link:active,
+.vouch-link,
+.vouch-link:visited,
+.vouch-link:active {
+    text-decoration: none !important;
+    color: inherit !important;
+}
+
 .card-row {
     display: flex;
     align-items: center;
