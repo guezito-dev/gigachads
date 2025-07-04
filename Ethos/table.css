@@ -7,15 +7,10 @@ body {
 }
 
 .table-container {
-    max-width: 800px;
+    width: 100%; /* Changez ici pour prendre toute la largeur */
     margin: auto;
     overflow: hidden;
     border-radius: 8px;
-}
-
-h1 {
-    text-align: center;
-    margin-bottom: 20px;
 }
 
 table {
