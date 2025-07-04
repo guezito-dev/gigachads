@@ -1,23 +1,28 @@
 let rankingData = [];
 
-fetch('gigachads-ranking.json')
-    .then(response => {
-        if (!response.ok) {
-            throw new Error('Network response was not ok');
-        }
-        return response.json();
-    })
-    .then(data => {
-        rankingData = data.ranking;
-        renderTable(rankingData);
-    })
-    .catch(error => {
-        console.error('There has been a problem with your fetch operation:', error);
-    });
+// Récupération des données
+document.addEventListener('DOMContentLoaded', () => {
+    fetch('gigachads-ranking.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            rankingData = data.ranking;
+            renderTable(rankingData);
+        })
+        .catch(error => {
+            console.error('Erreur lors du chargement des données:', error);
+        });
+});
 
+// Fonction pour afficher le tableau
 function renderTable(data) {
     const tableBody = document.getElementById('tableBody');
-    tableBody.innerHTML = ''; // Clear existing table data
+    tableBody.innerHTML = ''; // Efface les données du tableau existant
+
     data.forEach(user => {
         const row = document.createElement('tr');
         let medal = '';
@@ -35,18 +40,61 @@ function renderTable(data) {
         row.innerHTML = `
             <td>${medal}</td>
             <td>
-                <img src="${user.user.avatarUrl}" class="img-avatar" alt="${user.user.displayName}">
+                <img src="${user.user.avatarUrl}" alt="${user.user.displayName}" class="img-avatar" />
                 ${user.user.displayName}
             </td>
-            <td>${user.stats.vouchesGiven}</td>
-            <td>${user.stats.reviewsGiven}</td>
-            <td>${user.stats.vouchesReceived}</td>
-            <td>${user.stats.reviewsReceived}</td>
+            <td data-vouches-given-avatars='${JSON.stringify(user.stats.vouchesGivenAvatars)}' onclick="sortTable('vouchesGiven')">${user.stats.vouchesGiven}</td>
+            <td data-reviews-given-avatars='${JSON.stringify(user.stats.reviewsGivenAvatars)}' onclick="sortTable('reviewsGiven')">${user.stats.reviewsGiven}</td>
+            <td data-vouches-received-avatars='${JSON.stringify(user.stats.vouchesReceivedAvatars)}'>${user.stats.vouchesReceived}</td>
+            <td data-reviews-received-avatars='${JSON.stringify(user.stats.reviewsReceivedAvatars)}'>${user.stats.reviewsReceived}</td>
             <td>${user.stats.totalScore}</td>
-            <td><a href="${user.user.profileUrl}" target="_blank">Profile</a></td>
-            <td><a href="${user.user.twitterUrl}" target="_blank">X Profile</a></td>
+            <td><a href="${user.user.profileUrl}" target="_blank">Ethos</a></td>
+            <td><a href="${user.user.twitterUrl}" target="_blank">X</a></td>
         `;
         tableBody.appendChild(row);
+    });
+
+    attachTooltipListeners();
+}
+
+// Fonction d'attachement des tooltips
+function attachTooltipListeners() {
+    document.querySelectorAll("td[data-reviews-given-avatars], td[data-vouches-given-avatars], td[data-reviews-received-avatars], td[data-vouches-received-avatars]").forEach(cell => {
+        cell.addEventListener('mouseenter', function(event) {
+            let avatars;
+            if (this.hasAttribute('data-reviews-given-avatars')) {
+                avatars = JSON.parse(this.getAttribute('data-reviews-given-avatars'));
+            } else if (this.hasAttribute('data-vouches-given-avatars')) {
+                avatars = JSON.parse(this.getAttribute('data-vouches-given-avatars'));
+            } else if (this.hasAttribute('data-reviews-received-avatars')) {
+                avatars = JSON.parse(this.getAttribute('data-reviews-received-avatars'));
+            } else if (this.hasAttribute('data-vouches-received-avatars')) {
+                avatars = JSON.parse(this.getAttribute('data-vouches-received-avatars'));
+            }
+            
+            const tooltip = document.createElement('div');
+            tooltip.className = 'tooltip';
+            
+            avatars.forEach(avatar => {
+                const img = document.createElement('img');
+                img.src = avatar.avatar;
+                img.alt = 'Avatar';
+                tooltip.appendChild(img);
+            });
+
+            document.body.appendChild(tooltip);
+            tooltip.style.left = `${event.pageX + 10}px`;
+            tooltip.style.top = `${event.pageY + 10}px`;
+            
+            this.addEventListener('mousemove', (event) => {
+                tooltip.style.left = `${event.pageX + 10}px`;
+                tooltip.style.top = `${event.pageY + 10}px`;
+            });
+
+            this.addEventListener('mouseleave', () => {
+                tooltip.remove();
+            });
+        });
     });
 }
 
