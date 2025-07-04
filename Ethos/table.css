@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif; /* Utilisation de la police Roboto */
     background-color: #181818;
     color: #ffffff;
     margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 .table-container {
-    width: 100%; /* Changez ici pour prendre toute la largeur */
+    width: 100%; /* Full width */
     margin: auto;
     overflow: hidden;
     border-radius: 8px;
