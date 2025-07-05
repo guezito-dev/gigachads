@@ -153,6 +153,7 @@ function escapeJsonForHtml(obj) {
     return JSON.stringify(obj).replace(/'/g, '&#39;').replace(/"/g, '&quot;');
 }
 
+
 // Fonction pour afficher le tableau
 function renderTable(data) {
     const tableBody = document.getElementById('tableBody');
@@ -160,17 +161,9 @@ function renderTable(data) {
 
     data.forEach((user, index) => {
         const row = document.createElement('tr');
-        let medal = '';
-
-        if (user.rank === 1) {
-            medal = '🥇';
-        } else if (user.rank === 2) {
-            medal = '🥈';
-        } else if (user.rank === 3) {
-            medal = '🥉';
-        } else {
-            medal = user.rank;
-        }
+        
+        // Supprimer les émojis médailles - juste afficher le rang
+        const rankDisplay = user.rank;
 
         // Calculer les reviews manquantes
         const missingReviews = getMissingReviews(user, data);
@@ -183,11 +176,11 @@ function renderTable(data) {
         const reviewsReceivedData = user.stats.reviewsReceivedAvatars || [];
 
         row.innerHTML = `
-            <td data-label="Rank">${medal}</td>
-            <td data-label="User">
+            <td data-label="Rank">${rankDisplay}</td>
+            <td data-label="User" class="user-cell">
                 <img src="${user.user.avatarUrl}" alt="${user.user.displayName}" class="img-avatar" 
                      onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNDAiIGZpbGw9IiNEOUQ5RDkiLz4KPC9zdmc+Cg=='" />
-                ${user.user.displayName}
+                <span class="user-name">${user.user.displayName}</span>
             </td>
             <td data-label="Vouches Given" data-vouches-given-avatars='${escapeJsonForHtml(vouchesGivenData)}' class="sortable-cell" onclick="sortTable('vouchesGiven')">${user.stats.vouchesGiven}</td>
             <td data-label="Reviews Given" data-reviews-given-avatars='${escapeJsonForHtml(reviewsGivenData)}' class="sortable-cell" onclick="sortTable('reviewsGiven')">${user.stats.reviewsGiven}</td>
@@ -204,8 +197,8 @@ function renderTable(data) {
         `;
         tableBody.appendChild(row);
     });
-
 }
+
 
 // Fonction de tri
 function sortTable(key) {
