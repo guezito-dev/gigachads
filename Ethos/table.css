@@ -79,23 +79,36 @@ a:hover {
 }
 
 .btn-review-me {
-    background: linear-gradient(45deg, #ff6b6b, #ffa500);
-    color: white;
-    border: none;
-    padding: 8px 12px;
-    border-radius: 20px;
-    cursor: pointer;
-    font-size: 12px;
-    font-weight: bold;
-    transition: all 0.3s ease;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s;
+  padding: 10px 20px;
+  border-radius: 100px;
+  background: #37e5f9;
+  border: 1px solid transparent;
+  display: flex;
+  align-items: center;
+  font-size: 15px;
 }
 
 .btn-review-me:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
-    background: linear-gradient(45deg, #ff5252, #ff8f00);
+  background: #37e5f942;
 }
+
+.btn-review-me > svg {
+  width: 34px;
+  margin-left: 10px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.btn-review-me:hover svg {
+  transform: translateX(5px);
+}
+
+.btn-review-me:active {
+  transform: scale(0.95);
+}
+
 
 /* Styles pour la modal */
 .modal-overlay {
