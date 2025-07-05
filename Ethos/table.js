@@ -182,8 +182,9 @@ function renderTable(data) {
             <td><a href="${user.user.twitterUrl}" target="_blank" class="twitter-link">X Profile</a></td>
             <td class="review-me-please">
                 <button class="btn-review-me" onclick="showMissingReviewsModal(${index})">
-                    🙏 ${missingCount} missing
+                    ${missingCount} missing <img src="img/gigachad.png" alt="icon" class="btn-icon">
                 </button>
+
             </td>
         `;
         tableBody.appendChild(row);
