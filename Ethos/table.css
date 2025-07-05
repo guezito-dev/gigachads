@@ -54,30 +54,11 @@ a:hover {
     margin-left: 5px;
     font-size: 0.8em;
 }
-
-.tooltip {
-    position: absolute;
-    display: flex;
-    flex-wrap: wrap;
-    background: rgba(0, 0, 0, 0.75);
-    border-radius: 5px;
-    padding: 10px;
-    z-index: 1000;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-}
-
-.tooltip img {
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    margin-right: 5px;
-}
-
 /* Styles pour la colonne Review Me Please */
 .review-me-please {
     text-align: center;
 }
-
+/*====================================================================================================================*/
 .btn-review-me {
   background: #fbca1f;
   font-family: "Gill Sans Extrabold", sans-serif;
@@ -89,18 +70,15 @@ a:hover {
   box-shadow: 0.1em 0.1em;
   cursor: pointer;
 }
-
 .btn-review-me:hover {
   transform: translate(-0.05em, -0.05em);
   box-shadow: 0.15em 0.15em;
 }
-
 .btn-review-me:active {
   transform: translate(0.05em, 0.05em);
   box-shadow: 0.05em 0.05em;
 }
-
-
+/*====================================================================================================================*/
 /* Styles pour la modal */
 .modal-overlay {
     position: fixed;
@@ -223,7 +201,7 @@ a:hover {
 .user-actions {
     margin-left: 12px;
 }
-
+/*====================================================================================================================*/
 .btn-ethos {
     background: #8d8b8b;
     color: rgb(255, 255, 255);
@@ -236,13 +214,12 @@ a:hover {
     transition: all 0.3s ease;
     display: inline-block;
 }
-
 .btn-ethos:hover {
     background: #8d8b8b;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
-
+/*====================================================================================================================*/
 .no-missing-reviews {
     text-align: center;
     padding: 40px;
