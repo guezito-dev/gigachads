@@ -83,16 +83,17 @@ a:hover {
   font-weight: 700;
   transition: all 0.2s;
   padding: 10px 20px;
-  border-radius: 100px;
-  background: #37e5f9;
-  border: 1px solid transparent;
+  border-radius: 10px;
+  background: #00000000;
+  border: #e5ff00 2px solid  ;
   display: flex;
   align-items: center;
   font-size: 15px;
+  color: #ffffff;
 }
 
 .btn-review-me:hover {
-  background: #37e5f942;
+  background: #e5ff005e;
 }
 
 .btn-review-me > svg {
