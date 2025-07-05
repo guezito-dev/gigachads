@@ -99,38 +99,26 @@ body {
 }
 
 /* Carte marquee compacte */
+/* Conteneur principal de la card */
 .marquee-card {
     display: flex;
     align-items: center;
-    gap: 8px;
-    background: rgba(50, 50, 50, 0.9);
-    border-radius: 12px;
+    min-height: 50px;
     padding: 8px 12px;
-    min-width: 280px;
-    max-width: 320px;
-    border: 1px solid rgba(70, 229, 165, 0.2);
-    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    margin-right: 20px;
+    white-space: nowrap;
     flex-shrink: 0;
     text-decoration: none;
     color: inherit;
 }
 
-.marquee-card:hover {
-    background: rgba(50, 50, 50, 1);
-    border-color: rgba(70, 229, 165, 0.5);
-    transform: translateY(-2px);
-}
-
-.marquee-card:visited,
-.marquee-card:active {
-    text-decoration: none !important;
-    color: inherit !important;
-}
-
+/* Section des avatars */
 .marquee-avatars {
     display: flex;
     align-items: center;
-    gap: 4px;
+    margin-right: 12px;
     flex-shrink: 0;
 }
 
@@ -138,17 +126,17 @@ body {
     width: 24px;
     height: 24px;
     border-radius: 50%;
-    border: 1px solid #46E5A5;
-    object-fit: cover;
+    flex-shrink: 0;
 }
 
+/* Flèche entre les avatars (votre choix minimaliste) */
 .marquee-arrow {
     display: inline-block;
     width: 12px;
     height: 2px;
     background-color: #3FC380;
     position: relative;
-    margin: 0 10px;
+    margin: 0 8px;
 }
 
 .marquee-arrow::before,
@@ -171,70 +159,87 @@ body {
     bottom: -2px;
 }
 
-
-
-
+/* Contenu textuel */
 .marquee-content {
     flex: 1;
     min-width: 0;
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    justify-content: center;
 }
 
-.marquee-line {
+/* Ligne principale avec position fixe pour l'horodatage */
+.marquee-main-line {
     display: flex;
     align-items: center;
-    gap: 4px;
-    font-size: 12px;
+    margin-bottom: 2px;
 }
 
 .marquee-user {
-    font-weight: bold;
-    color: #686868;
-    font-size: 12px;
+    font-weight: 600;
+    margin-right: 4px;
+    color: #414141;
 }
 
 .marquee-verb {
-    color: #4ac493;
-    font-weight: 1000;
-    font-size: 12px;
-    
+    margin-right: 4px;
+    font-weight: 600;
 }
 
 .marquee-amount {
-    color: #3A7FFF;
-    font-weight: 700;
-    font-size: 12px;
+    margin-right: 8px;
+    font-weight: 600;
+    color: #b21ce3; /* Couleur dorée pour l'ETH */
 }
 
+/* Horodatage toujours à droite */
 .marquee-time {
-    color: #686868;
-    font-size: 10px;
-    margin-left: auto;
+    margin-left: auto; /* Pousse vers la droite */
+    flex-shrink: 0;
+    color: #414141;
+    font-size: 12px;
+    min-width: 60px;
+    text-align: right;
 }
 
+/* Titre tronqué */
 .marquee-title {
-    color: #686868;
-    font-weight: 1000;
     font-size: 14px;
-    line-height: 1.2;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
+    font-weight: 900;
+    color: #414141;
     overflow: hidden;
     text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 300px; /* Ajustez selon vos besoins */
 }
 
-.marquee-description {
-    color: #B3BAC7;
-    font-size: 11px;
-    line-height: 1.2;
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
+/* Couleurs spécifiques par type */
+.marquee-card-review .marquee-verb {
+    color: #3FC380; /* Vert pour review */
+}
+
+.marquee-card-vouch .marquee-verb {
+    color: #4A90E2; /* Bleu pour vouch */
+}
+
+/* Couleurs des flèches selon le type */
+.marquee-card-review .marquee-arrow,
+.marquee-card-review .marquee-arrow::before,
+.marquee-card-review .marquee-arrow::after {
+    background-color: #3FC380;
+}
+
+.marquee-card-vouch .marquee-arrow,
+.marquee-card-vouch .marquee-arrow::before,
+.marquee-card-vouch .marquee-arrow::after {
+    background-color: #4A90E2;
+}
+
+/* Hover effects */
+.marquee-card:hover {
+    background: rgba(255, 255, 255, 0.15);
+    transform: translateY(-1px);
+    transition: all 0.2s ease;
 }
 
 /* Styles pour différencier les types de cartes */
@@ -256,6 +261,30 @@ body {
 .marquee-card-vouch:hover {
     background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
     transform: translateY(-2px);
+}
+
+/* Couleurs pour les verbes selon le type de card */
+.marquee-card-review .marquee-verb {
+    color: #3FC380; /* Vert pour review */
+    font-weight: 600;
+}
+
+.marquee-card-vouch .marquee-verb {
+    color: #4A90E2; /* Bleu pour vouch */
+    font-weight: 600;
+}
+
+/* Optionnel : Adapter la couleur de la flèche aussi */
+.marquee-card-review .marquee-arrow,
+.marquee-card-review .marquee-arrow::before,
+.marquee-card-review .marquee-arrow::after {
+    background-color: #3FC380; /* Vert pour review */
+}
+
+.marquee-card-vouch .marquee-arrow,
+.marquee-card-vouch .marquee-arrow::before,
+.marquee-card-vouch .marquee-arrow::after {
+    background-color: #4A90E2; /* Bleu pour vouch */
 }
 
 /* ========== Skeleton Loading ========== */
@@ -317,9 +346,48 @@ body {
 
 @media (max-width: 768px) {
     .marquee-card {
-        min-width: 220px;
-        max-width: 240px;
-        padding: 6px 10px;
+        min-width: 280px; /* Augmenté pour plus d'espace */
+        max-width: 320px;
+        padding: 8px 10px;
+        min-height: 60px; /* Hauteur augmentée pour 2 lignes */
+    }
+    
+    /* Réorganisation du contenu sur mobile */
+    .marquee-content {
+        width: 100%;
+        overflow: hidden;
+    }
+    
+    .marquee-main-line {
+        flex-wrap: wrap; /* Permet le passage à la ligne */
+        gap: 2px;
+        margin-bottom: 4px;
+    }
+    
+    .marquee-user {
+        font-size: 13px;
+        margin-right: 3px;
+    }
+    
+    .marquee-verb {
+        font-size: 13px;
+        margin-right: 3px;
+    }
+    
+    .marquee-amount {
+        font-size: 13px;
+        margin-right: 6px;
+    }
+    
+    .marquee-time {
+        font-size: 11px;
+        min-width: 50px;
+    }
+    
+    .marquee-title {
+        font-size: 12px;
+        max-width: 250px; /* Largeur réduite pour mobile */
+        font-weight: 700; /* Réduire le poids pour économiser l'espace */
     }
     
     .marquee-track {
@@ -331,20 +399,73 @@ body {
     }
 }
 
-@media (max-width: 600px) {
-    .skeleton-card {
-        flex-direction: column;
-        align-items: stretch;
-        padding: 8px;
-        gap: 7px;
+@media (max-width: 480px) {
+    .marquee-card {
+        min-width: 260px;
+        max-width: 280px;
+        padding: 6px 8px;
+        min-height: 55px;
     }
-
-    .skeleton-arrow {
-        margin: 0 auto;
-        font-size: 25px;
+    
+    .marquee-avatars {
+        margin-right: 8px;
+    }
+    
+    .marquee-avatar {
+        width: 20px;
+        height: 20px;
+    }
+    
+    .marquee-arrow {
+        width: 10px;
+        margin: 0 6px;
+    }
+    
+    .marquee-arrow::before,
+    .marquee-arrow::after {
+        width: 5px;
+    }
+    
+    .marquee-user {
+        font-size: 12px;
+        margin-right: 2px;
+    }
+    
+    .marquee-verb {
+        font-size: 12px;
+        margin-right: 2px;
+    }
+    
+    .marquee-amount {
+        font-size: 12px;
+        margin-right: 4px;
+    }
+    
+    .marquee-time {
+        font-size: 10px;
+        min-width: 45px;
+    }
+    
+    .marquee-title {
+        font-size: 11px;
+        max-width: 200px;
+        font-weight: 600;
+    }
+    
+    /* Layout alternatif pour très petits écrans */
+    .marquee-main-line {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1px;
+    }
+    
+    .marquee-time {
+        margin-left: 0;
+        text-align: left;
+        align-self: flex-end;
+        margin-top: -15px; /* Remonte l'horodatage */
     }
 }
-
 /* ========== Performance Optimizations ========== */
 
 .marquee-card {
