@@ -143,10 +143,36 @@ body {
 }
 
 .marquee-arrow {
-    font-size: 22px;
-    color: #3A7FFF;
-    font-weight: bold;
+    display: inline-block;
+    width: 12px;
+    height: 2px;
+    background-color: #3FC380;
+    position: relative;
+    margin: 0 10px;
 }
+
+.marquee-arrow::before,
+.marquee-arrow::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    width: 6px;
+    height: 2px;
+    background-color: #3FC380;
+}
+
+.marquee-arrow::before {
+    transform: rotate(45deg);
+    top: -2px;
+}
+
+.marquee-arrow::after {
+    transform: rotate(-45deg);
+    bottom: -2px;
+}
+
+
+
 
 .marquee-content {
     flex: 1;
