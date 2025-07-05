@@ -91,13 +91,6 @@ function getStakedAmount(activity) {
     return '0.000';
 }
 
-function getReviewDescription(review) {
-    const score = review.score || 0;
-    if (score >= 4) return 'Positive review';
-    if (score >= 2) return 'Neutral review';
-    return 'Negative review';
-}
-
 function showError(message, details = null) {
     console.error('[ERROR]', message, details);
     document.getElementById('loading').style.display = 'none';
@@ -199,7 +192,6 @@ function createVouchMarqueeCard(vouch) {
 
 function createReviewMarqueeCard(review) {
     const translatedTitle = review.translation?.translatedContent || review.comment || review.content?.comment || 'Review';
-    const description = getReviewDescription(review);
     const timeAgo = formatTimeAgo(review.createdAt || review.timestamp);
     const authorName = review.authorUser.displayName || review.authorUser.username;
     const subjectName = review.subjectUser.displayName || review.subjectUser.username;
@@ -229,7 +221,6 @@ function createReviewMarqueeCard(review) {
                     <span class="marquee-time">${timeAgo}</span>
                 </div>
                 <div class="marquee-title">${truncatedTitle}</div>
-                <div class="marquee-description">${description}</div>
             </div>
         </a>
     `;
