@@ -83,7 +83,7 @@ function showMissingReviewsModal(userIndex) {
     modal.innerHTML = `
         <div class="modal-content">
             <div class="modal-header">
-                <h2>🙏 ${user.user.displayName} should review these Gigachads</h2>
+                <h2> ${user.user.displayName} should review these Gigachads</h2>
                 <button class="close-btn" onclick="closeModal()">&times;</button>
             </div>
             <div class="modal-body">
@@ -167,24 +167,23 @@ function renderTable(data) {
         const reviewsReceivedData = user.stats.reviewsReceivedAvatars || [];
 
         row.innerHTML = `
-            <td>${medal}</td>
-            <td>
+            <td data-label="Rank">${medal}</td>
+            <td data-label="User">
                 <img src="${user.user.avatarUrl}" alt="${user.user.displayName}" class="img-avatar" 
                      onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiByeD0iNDAiIGZpbGw9IiNEOUQ5RDkiLz4KPC9zdmc+Cg=='" />
                 ${user.user.displayName}
             </td>
-            <td data-vouches-given-avatars='${escapeJsonForHtml(vouchesGivenData)}' class="sortable-cell" onclick="sortTable('vouchesGiven')">${user.stats.vouchesGiven}</td>
-            <td data-reviews-given-avatars='${escapeJsonForHtml(reviewsGivenData)}' class="sortable-cell" onclick="sortTable('reviewsGiven')">${user.stats.reviewsGiven}</td>
-            <td data-vouches-received-avatars='${escapeJsonForHtml(vouchesReceivedData)}'>${user.stats.vouchesReceived}</td>
-            <td data-reviews-received-avatars='${escapeJsonForHtml(reviewsReceivedData)}'>${user.stats.reviewsReceived}</td>
-            <td class="sortable-cell" onclick="sortTable('totalScore')">${user.stats.totalScore}</td>
-            <td><a href="${user.user.profileUrl}" target="_blank" class="ethos-link">Ethos</a></td>
-            <td><a href="${user.user.twitterUrl}" target="_blank" class="twitter-link">X Profile</a></td>
-            <td class="review-me-please">
+            <td data-label="Vouches Given" data-vouches-given-avatars='${escapeJsonForHtml(vouchesGivenData)}' class="sortable-cell" onclick="sortTable('vouchesGiven')">${user.stats.vouchesGiven}</td>
+            <td data-label="Reviews Given" data-reviews-given-avatars='${escapeJsonForHtml(reviewsGivenData)}' class="sortable-cell" onclick="sortTable('reviewsGiven')">${user.stats.reviewsGiven}</td>
+            <td data-label="Vouches Received" data-vouches-received-avatars='${escapeJsonForHtml(vouchesReceivedData)}'>${user.stats.vouchesReceived}</td>
+            <td data-label="Reviews Received" data-reviews-received-avatars='${escapeJsonForHtml(reviewsReceivedData)}'>${user.stats.reviewsReceived}</td>
+            <td data-label="Total Score" class="sortable-cell" onclick="sortTable('totalScore')">${user.stats.totalScore}</td>
+            <td data-label="Ethos"><a href="${user.user.profileUrl}" target="_blank" class="ethos-link">Ethos</a></td>
+            <td data-label="X Profile"><a href="${user.user.twitterUrl}" target="_blank" class="twitter-link">X Profile</a></td>
+            <td data-label="Review Me Please" class="review-me-please">
                 <button class="btn-review-me" onclick="showMissingReviewsModal(${index})">
                     ${missingCount} missing <img src="img/gigachad.png" alt="icon" class="btn-icon">
                 </button>
-
             </td>
         `;
         tableBody.appendChild(row);
