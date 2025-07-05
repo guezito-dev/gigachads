@@ -254,20 +254,43 @@ a:hover {
     margin: 0;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
-    .modal-content {
-        width: 95%;
-        margin: 10px;
+    .table-container {
+        overflow: visible;
     }
     
-    .missing-review-item {
-        flex-direction: column;
-        text-align: center;
+    table, thead, tbody, th, td, tr {
+        display: block;
     }
     
-    .user-actions {
-        margin-left: 0;
-        margin-top: 10px;
+    thead tr {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+    
+    tr {
+        background: #333;
+        border: 1px solid #555;
+        border-radius: 8px;
+        margin: 10px 0;
+        padding: 10px;
+    }
+    
+    td {
+        border: none;
+        position: relative;
+        padding-left: 50%;
+        text-align: left;
+    }
+    
+    td:before {
+        content: attr(data-label) ": ";
+        position: absolute;
+        left: 6px;
+        width: 45%;
+        text-align: left;
+        font-weight: bold;
+        color: #ccc;
     }
 }
