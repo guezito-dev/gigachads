@@ -210,6 +210,27 @@ body {
     text-overflow: ellipsis;
 }
 
+/* Styles pour différencier les types de cartes */
+.marquee-card-review {
+    border-left: 3px solid #10b981; /* Vert pour reviews */
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+}
+
+.marquee-card-vouch {
+    border-left: 3px solid #3b82f6; /* Bleu pour vouches */
+    background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+}
+
+.marquee-card-review:hover {
+    background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+    transform: translateY(-2px);
+}
+
+.marquee-card-vouch:hover {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    transform: translateY(-2px);
+}
+
 /* ========== Skeleton Loading ========== */
 
 .skeleton-card {
