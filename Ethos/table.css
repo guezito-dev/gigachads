@@ -79,35 +79,25 @@ a:hover {
 }
 
 .btn-review-me {
+  background: #fbca1f;
+  font-family: "Gill Sans Extrabold", sans-serif;
+  padding: 0.6em 1.3em;
+  font-weight: 900;
+  font-size: 18px;
+  border: 3px solid black;
+  border-radius: 0.4em;
+  box-shadow: 0.1em 0.1em;
   cursor: pointer;
-  font-weight: 700;
-  transition: all 0.2s;
-  padding: 10px 20px;
-  border-radius: 10px;
-  background: #00000000;
-  border: #e5ff00 2px solid  ;
-  display: flex;
-  align-items: center;
-  font-size: 15px;
-  color: #ffffff;
 }
 
 .btn-review-me:hover {
-  background: #e5ff005e;
-}
-
-.btn-review-me > svg {
-  width: 34px;
-  margin-left: 10px;
-  transition: transform 0.3s ease-in-out;
-}
-
-.btn-review-me:hover svg {
-  transform: translateX(5px);
+  transform: translate(-0.05em, -0.05em);
+  box-shadow: 0.15em 0.15em;
 }
 
 .btn-review-me:active {
-  transform: scale(0.95);
+  transform: translate(0.05em, 0.05em);
+  box-shadow: 0.05em 0.05em;
 }
 
 
@@ -240,7 +230,8 @@ a:hover {
     padding: 8px 16px;
     border-radius: 6px;
     text-decoration: none;
-    font-size: 14px;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 16px;
     font-weight: bold;
     transition: all 0.3s ease;
     display: inline-block;
