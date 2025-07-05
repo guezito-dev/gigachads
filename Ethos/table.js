@@ -18,15 +18,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 });
 
-// Fonction pour calculer les gigachads qui n'ont pas encore été reviewés
+// Fonction pour calculer les gigachads qui n'ont pas encore été reviewés OU vouchés
 function getMissingReviews(currentUser, allUsers) {
     const reviewedAvatars = new Set();
+    const vouchedAvatars = new Set();
     
     console.log('=== ANALYSING USER ===');
     console.log('User:', currentUser.user.displayName);
     console.log('🔍 CURRENT USER STRUCTURE:', currentUser);
     console.log('🔍 CURRENT USER.USER:', currentUser.user);
     console.log('Reviews given:', currentUser.stats.reviewsGivenAvatars);
+    console.log('Vouches given:', currentUser.stats.vouchesGivenAvatars);
     
     // Récupérer tous les avatars que ce gigachad a déjà reviewé
     if (currentUser.stats.reviewsGivenAvatars && Array.isArray(currentUser.stats.reviewsGivenAvatars)) {
@@ -37,7 +39,17 @@ function getMissingReviews(currentUser, allUsers) {
         });
     }
     
+    // Récupérer tous les avatars que ce gigachad a déjà vouché
+    if (currentUser.stats.vouchesGivenAvatars && Array.isArray(currentUser.stats.vouchesGivenAvatars)) {
+        currentUser.stats.vouchesGivenAvatars.forEach(vouch => {
+            if (vouch.avatar) {
+                vouchedAvatars.add(vouch.avatar);
+            }
+        });
+    }
+    
     console.log('Reviewed avatars:', Array.from(reviewedAvatars));
+    console.log('Vouched avatars:', Array.from(vouchedAvatars));
     console.log('=== ALL GIGACHADS AVATARS ===');
     
     // Debug de la première entrée pour comprendre la structure
@@ -48,7 +60,7 @@ function getMissingReviews(currentUser, allUsers) {
         console.log('🔍 ALL KEYS IN FIRST USER.USER:', Object.keys(allUsers[0].user));
     }
     
-    // Filtrer les gigachads qui n'ont pas encore été reviewés
+    // Filtrer les gigachads qui n'ont pas encore été reviewés ET pas encore été vouchés
     const missingReviews = allUsers.filter(user => {
         // Utiliser displayName comme fallback si userkey n'existe pas
         const currentUserID = currentUser.user.userkey || currentUser.user.displayName;
@@ -56,22 +68,26 @@ function getMissingReviews(currentUser, allUsers) {
         
         const isNotSelf = userID !== currentUserID;
         const notReviewed = !reviewedAvatars.has(user.user.avatarUrl);
+        const notVouched = !vouchedAvatars.has(user.user.avatarUrl);
         
         console.log(`Checking ${user.user.displayName}:`);
         console.log(`  - UserID: ${userID}`);
         console.log(`  - Is not self: ${isNotSelf}`);
         console.log(`  - Avatar URL: ${user.user.avatarUrl}`);
         console.log(`  - Not reviewed: ${notReviewed}`);
+        console.log(`  - Not vouched: ${notVouched}`);
+        console.log(`  - Should include: ${isNotSelf && notReviewed && notVouched}`);
         
-        return isNotSelf && notReviewed;
+        return isNotSelf && notReviewed && notVouched;
     });
     
     console.log('=== FINAL RESULT ===');
-    console.log('Missing reviews count:', missingReviews.length);
-    console.log('Missing reviews:', missingReviews);
+    console.log('Missing reviews/vouches count:', missingReviews.length);
+    console.log('Missing reviews/vouches:', missingReviews);
     
     return missingReviews;
 }
+
 // Fonction pour afficher la modal avec les personnes manquantes
 function showMissingReviewsModal(userIndex) {
     const user = rankingData[userIndex];
