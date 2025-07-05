@@ -151,16 +151,17 @@ a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    border-bottom: 1px solid #eee;
-    background: linear-gradient(45deg, #667eea, #764ba2);
-    color: white;
+    padding: 18px;
+    border-bottom: 1px solid #ffffff00;
+    background: #4a4a4a;
+    color: rgb(255, 253, 253);
     border-radius: 12px 12px 0 0;
 }
 
 .modal-header h2 {
     margin: 0;
     font-size: 18px;
+    color: rgb(255, 255, 255);
 }
 
 .close-btn {
@@ -179,10 +180,12 @@ a:hover {
 
 .modal-body {
     padding: 20px;
+    background: #5e5e5e;
 }
 
 .missing-reviews-list {
     margin-top: 15px;
+    color: rgb(255, 255, 255);
 }
 
 .missing-review-item {
@@ -190,14 +193,14 @@ a:hover {
     align-items: center;
     padding: 12px;
     margin: 8px 0;
-    border: 1px solid #eee;
+    border: 1px solid #eeeeee00;
     border-radius: 8px;
-    background: #f9f9f9;
+    background: #6f6f6f;
     transition: all 0.3s ease;
 }
 
 .missing-review-item:hover {
-    background: #f0f0f0;
+    background: #00000000;
     transform: translateX(5px);
 }
 
@@ -206,7 +209,7 @@ a:hover {
     height: 40px;
     border-radius: 50%;
     margin-right: 12px;
-    border: 2px solid #ddd;
+    border: 2px solid #29fffb00;
 }
 
 .user-info {
@@ -217,13 +220,13 @@ a:hover {
 
 .user-name {
     font-weight: bold;
-    margin-bottom: 4px;
-    color:#181818
+    margin-bottom: px;
+    color:#ffffff
 }
 
 .user-rank {
     font-size: 12px;
-    color: #666;
+    color: #ffffff;
 }
 
 .user-actions {
@@ -231,19 +234,19 @@ a:hover {
 }
 
 .btn-ethos {
-    background: linear-gradient(45deg, #8de86f, #8de86f);
+    background: #8d8b8b;
     color: rgb(255, 255, 255);
     padding: 8px 16px;
     border-radius: 6px;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     transition: all 0.3s ease;
     display: inline-block;
 }
 
 .btn-ethos:hover {
-    background: linear-gradient(45deg, #45a049, #4CAF50);
+    background: #8d8b8b;
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
