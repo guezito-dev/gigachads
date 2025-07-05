@@ -49,7 +49,7 @@ function renderTable(data) {
             <td data-reviews-received-avatars='${JSON.stringify(user.stats.reviewsReceivedAvatars)}'>${user.stats.reviewsReceived}</td>
             <td>${user.stats.totalScore}</td>
             <td><a href="${user.user.profileUrl}" target="_blank">Ethos</a></td>
-            <td><a href="${user.user.twitterUrl}" target="_blank">X</a></td>
+            <td><a href="${user.user.twitterUrl}" target="_blank">X Profile</a></td>
         `;
         tableBody.appendChild(row);
     });
