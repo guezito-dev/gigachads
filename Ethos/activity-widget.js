@@ -46,14 +46,6 @@ function debug(message, data = null) {
 }
 
 // ========== Utils ==========
-function isToday(timestamp) {
-    const today = new Date();
-    const itemDate = new Date(parseInt(timestamp) < 1e12 ? parseInt(timestamp) * 1000 : parseInt(timestamp));
-    
-    return today.getDate() === itemDate.getDate() &&
-           today.getMonth() === itemDate.getMonth() &&
-           today.getFullYear() === itemDate.getFullYear();
-}
 
 function formatTimeAgo(timestamp) {
     let t = parseInt(timestamp, 10);
@@ -225,7 +217,6 @@ function createReviewMarqueeCard(review) {
         </a>
     `;
 }
-
 // ========== Main Fetch Logic ==========
 async function fetchRecentActivities() {
     debug('Starting activities fetch...');
@@ -323,32 +314,59 @@ async function fetchRecentActivities() {
 function displayCombinedMarquee(vouches, reviews) {
     const container = document.getElementById('activityContainer');
     
-    // Filter today's items
-    const todaysVouches = vouches.filter(v => isToday(v.createdAt || v.timestamp));
-    const todaysReviews = reviews.filter(r => isToday(r.createdAt || r.timestamp));
+    // Utiliser la nouvelle fonction pour récupérer les 10 dernières activités
+    const recentActivities = combineAndSortActivities(vouches, reviews);
     
-    // Create cards
-    const vouchCards = todaysVouches.map(createVouchMarqueeCard);
-    const reviewCards = todaysReviews.map(createReviewMarqueeCard);
-    
-    // Combine all cards
-    const allCards = [...vouchCards, ...reviewCards];
+    // Générer les cartes selon le type d'activité
+    const allCards = recentActivities.map(activity => {
+        if (activity.activityType === 'vouch') {
+            return createVouchMarqueeCard(activity);
+        } else {
+            return createReviewMarqueeCard(activity);
+        }
+    });
     
     if (allCards.length === 0) {
-        container.innerHTML = '<div class="no-data-today">No activities found between Giga Chads today.</div>';
+        container.innerHTML = '<div class="no-data-today">No activities found between Giga Chads.</div>';
         return;
     }
-    
-    // Shuffle cards for variety
-    const shuffledCards = shuffleArray(allCards);
     
     container.innerHTML = `
         <div class="marquee-container">
             <div class="marquee-track">
-                ${shuffledCards.join('')}
+                ${allCards.join('')}
             </div>
         </div>
     `;
+}
+
+function combineAndSortActivities(vouches, reviews) {
+    // Marquer les vouches avec leur type
+    const vouchesWithType = vouches.map(vouch => ({
+        ...vouch,
+        activityType: 'vouch',
+        sortTimestamp: vouch.createdAt || vouch.timestamp
+    }));
+    
+    // Marquer les reviews avec leur type
+    const reviewsWithType = reviews.map(review => ({
+        ...review,
+        activityType: 'review',
+        sortTimestamp: review.createdAt || review.timestamp
+    }));
+    
+    // Combiner les deux arrays
+    const allActivities = [...vouchesWithType, ...reviewsWithType];
+    
+    // Trier par timestamp décroissant (plus récent en premier)
+    allActivities.sort((a, b) => {
+        const timestampA = new Date(a.sortTimestamp).getTime();
+        const timestampB = new Date(b.sortTimestamp).getTime();
+        return timestampB - timestampA;
+    });
+    
+    // Retourner les 10 premiers
+    return allActivities.slice(0, 10);
 }
 
 function shuffleArray(array) {
