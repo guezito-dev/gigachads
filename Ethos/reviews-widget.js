@@ -235,7 +235,7 @@ async function fetchRecentReviews() {
 
 // ========== Rendu HTML ==========
 
-function createReviewHTML(review) {
+function createReviewMarqueeCard(review) {
     const translatedTitle = review.translation?.translatedContent || review.comment;
     const description = getReviewDescription(review);
     const timeAgo = formatTimeAgo(review.createdAt || review.timestamp);
@@ -248,32 +248,68 @@ function createReviewHTML(review) {
     const url = reviewId ? `https://app.ethos.network/activity/review/${reviewId}` : "#";
 
     return `
-    <a href="${url}" target="_blank" class="card-row review-link">
-        <img class="card-avatar" src="${authorAvatar}" alt="${authorName}" loading="lazy">
-        <span class="card-arrow">→</span>
-        <img class="card-avatar" src="${subjectAvatar}" alt="${subjectName}" loading="lazy"> 
-        <div class="card-content">
-            <div class="card-line">
-                <span class="card-user">${authorName}</span>
-                <span class="card-verb">reviewed</span>
-                <span class="card-user">${subjectName}</span>
-                <span class="card-time">${timeAgo}</span>
+        <a href="${url}" target="_blank" class="marquee-card review-link">
+            <div class="marquee-avatars">
+                <img class="marquee-avatar" src="${authorAvatar}" alt="${authorName}" loading="lazy">
+                <span class="marquee-arrow">→</span>
+                <img class="marquee-avatar" src="${subjectAvatar}" alt="${subjectName}" loading="lazy">
             </div>
-            <div class="card-title">${translatedTitle}</div>
-            <div class="card-description">${description}</div>
-        </div>
-    </a>
+            <div class="marquee-content">
+                <div class="marquee-line">
+                    <span class="marquee-user">${authorName}</span>
+                    <span class="marquee-verb">reviewed</span>
+                    <span class="marquee-user">${subjectName}</span>
+                    <span class="marquee-time">${timeAgo}</span>
+                </div>
+                <div class="marquee-title">${translatedTitle}</div>
+                <div class="marquee-description">${description}</div>
+            </div>
+        </a>
     `;
 }
 
-function displayReviews(reviews) {
+
+function displayReviewsMarquee(reviews) {
     const container = document.getElementById('reviewsContainer');
-    if (reviews.length > 0) {
-        container.innerHTML = reviews.map(createReviewHTML).join('');
-    } else {
-        container.innerHTML = '<div class="empty-state"><p>No recent reviews found between Giga Chads.</p></div>';
+    
+    // Filtrer les reviews d'aujourd'hui
+    const todaysReviews = filterTodayItems(reviews);
+    
+    if (todaysReviews.length === 0) {
+        container.innerHTML = '<div class="no-data-today">No reviews found between Giga Chads today.</div>';
+        return;
     }
+
+    // Dupliquer pour créer l'effet continu
+    const duplicatedReviews = [...todaysReviews, ...todaysReviews];
+
+    container.innerHTML = `
+        <div class="marquee-container">
+            <div class="marquee-track">
+                ${duplicatedReviews.map(createReviewMarqueeCard).join('')}
+            </div>
+        </div>
+    `;
 }
+
+// Fonction pour vérifier si une date est aujourd'hui
+function isToday(timestamp) {
+    const today = new Date();
+    const itemDate = new Date(parseInt(timestamp) < 1e12 ? parseInt(timestamp) * 1000 : parseInt(timestamp));
+    
+    return today.getDate() === itemDate.getDate() &&
+           today.getMonth() === itemDate.getMonth() &&
+           today.getFullYear() === itemDate.getFullYear();
+}
+
+// Fonction pour filtrer les éléments du jour
+function filterTodayItems(items) {
+    return items.filter(item => {
+        const timestamp = item.createdAt || item.timestamp;
+        return isToday(timestamp);
+    });
+}
+
 
 // ========== Initialisation ==========
 
@@ -283,7 +319,7 @@ async function loadReviews() {
         showSkeletonLoader();
         
         const reviews = await fetchRecentReviews();
-        displayReviews(reviews);
+        displayReviewsMarquee(reviews);
         document.getElementById('loading').style.display = 'none';
         document.getElementById('content').style.display = 'block';
         debug('Loading completed successfully');
